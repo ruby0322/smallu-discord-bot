@@ -1,0 +1,9 @@
+discord.py
+flask
+requests
+beautifulsoup4
+bs4
+validators
+lxml
+speedtest-cli
+async-timeout
